@@ -17,14 +17,14 @@ There are some provided HTML and CSS files you can use to get started. You can u
 - [X] Use semantic HTML tags to structure the webpage
 - [X] Create three articles, each including a title, summary, and a link
 - [X] Check a webpage against a wireframe layout
-- [ ] Test web code using [Lighthouse](https://programming.codeyourfuture.io/guides/testing/lighthouse)
+- [X] Test web code using [Lighthouse](https://programming.codeyourfuture.io/guides/testing/lighthouse)
 - [X] Use version control by committing often and pushing regularly to GitHub
 <!--{{</objectives>}}>-->
 
 ## Acceptance Criteria
 
 - [X] Semantic HTML tags are used to structure the webpage.
-- [ ] The page scores 100 for Accessibility in the Lighthouse audit.
+- [X] The page scores 100 for Accessibility in the Lighthouse audit.
 - [X] The page header includes a title and description.
 - [X] The articles section has three unique articles, each including a title, summary, and a link.
 - [X] The page footer is fixed to the bottom of the viewport.
