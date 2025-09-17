@@ -4,10 +4,10 @@
 
 <!--{{<objectives>}}>-->
 
-- [ ] Interpret requirements and check against a list of criteria
-- [ ] Write a valid form
-- [ ] Test with Devtools
-- [ ] Refactor using Devtools
+- [X] Interpret requirements and check against a list of criteria
+- [X] Write a valid form
+- [X] Test with Devtools
+- [X] Refactor using Devtools
 <!--{{<objectives>}}>-->
 
 ## Task
